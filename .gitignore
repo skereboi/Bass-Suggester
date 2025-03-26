@@ -15,6 +15,7 @@
 
 # YTMusic API Dara
 .browser.json
+.oauth.json
 
 # Personal Data  
 /data/external/Takeout
